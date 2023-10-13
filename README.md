@@ -5,7 +5,7 @@
 
 ## How to use
 
-1. Download the attached zip: [Shield-of-David-extension.zip](https://github.com/shield-of-david/shield-of-david-releases/releases/download/v1.0.3/Shield-of-David-extension-v1.0.3.zip) and extract the zip.
+1. Download the attached zip: [Shield-of-David-extension.zip](https://github.com/shield-of-david/shield-of-david-releases/releases/download/latest/Shield-of-David-extension.zip) and extract the zip.
 3. **Open Google Chrome**: Ensure you have Google Chrome (or any Chromium-based browser) installed and open it on your computer.
 4. **Access Extension Management**: Type [chrome://extensions/](chrome://extensions/) in the address bar and press Enter, or you can also access it by clicking the three dots (menu) in the top right corner, then selecting "More tools" > "Extensions."
 5. **Enable Developer Mode**:
