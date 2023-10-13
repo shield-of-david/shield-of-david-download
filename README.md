@@ -1,5 +1,4 @@
 ![logo-128](https://github.com/shield-of-david/shield-of-david-releases/assets/12860839/1c9551eb-c6c1-4cac-8119-4b97d4de8471)
-)
 # Shield of David
 
 "Shield of David" is a Chrome extension created to automatically report Twitter accounts, especially bots, that disseminate hate speech, misinformation, and violent content targeting Israel and its citizens. Leveraging a database of URLs, the extension streamlines the reporting process, seamlessly working with the user's Twitter account.
@@ -12,8 +11,7 @@
 5. **Enable Developer Mode**:
    In the Extensions page, locate the "Developer mode" toggle switch in the top-right corner and turn it on by sliding it to the right. This enables developer features.
    <br/><br/>
-   ![image](https://github.com/shield-of-david/shield-of-david-releases/assets/12860839/3b626ee9-d70d-42a2-bef0-bd4f7bc58312
-)
+   ![image](https://github.com/shield-of-david/shield-of-david-releases/assets/12860839/3b626ee9-d70d-42a2-bef0-bd4f7bc58312)
 6. **Load Unpacked Extension**:
    Click the "Load unpacked" button that appears after enabling Developer mode. This will open a file dialog.
    <br/><br/>
